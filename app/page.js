@@ -1,10 +1,10 @@
 import React from "react";
-import Card00 from "./Component/Card0";
+import Card11 from "./Component/Card1";
 
 const Home = () => {
   return (
     <div>
-      <Card00/>
+      <Card11/>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam ullam
         modi facilis autem reprehenderit vero non veritatis, repellat hic
