@@ -1,10 +1,11 @@
 import React from "react";
 import Card11 from "./Component/Card1";
+import AppleFlipCard from "./Component/AppleflipCard";
 
 const Home = () => {
   return (
     <div>
-      <Card11/>
+      <AppleFlipCard />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam ullam
         modi facilis autem reprehenderit vero non veritatis, repellat hic
