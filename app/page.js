@@ -14,6 +14,12 @@ const Home = () => {
         eveniet assumenda dignissimos, explicabo eos, dolor dolore quaerat sed
         iusto labore ad maiores maxime suscipit quia! Quasi placeat saepe illum.
       </p>
+      <h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
+        expedita inventore consequatur necessitatibus adipisci. At delectus
+        doloribus animi. Iure eveniet hic cumque quia saepe repellendus
+        perspiciatis culpa dicta. Consequuntur, ipsa.
+      </h1>
     </div>
   );
 };
