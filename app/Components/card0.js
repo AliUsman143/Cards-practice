@@ -1,4 +1,3 @@
-
 const Card00 = () => {
     const arry=[
       {
