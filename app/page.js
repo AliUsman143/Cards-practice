@@ -1,12 +1,11 @@
 import React from "react";
 import WeatherCard from "./APishortcut/WeatherApi";
-import GithubUserSearch from "./Components/GithubApi";
 const Page = () => {
   return (
-    <div>
+    <>
+    <h1 className="text-4xl font-bold text-red-500 items-center text-center">Ali Usman</h1>
   <WeatherCard/>
-  <GithubUserSearch />
-    </div>
+    </>
   );
 };
 
